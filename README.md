@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Machine Learning and Data science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/)
+- 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/Hemanavin)
 
 - 📝 I regularly write articles on [Data Analytics and Power BI](Data Analytics and Power BI)
 
