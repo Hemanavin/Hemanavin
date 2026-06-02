@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python,SQL,PowerBI,Data Science**
 
-- 👯 I’m looking to collaborate on **data Analytics project**
+- 👯 I’m looking to collaborate on **Data Analytics project**
 
 - 🤝 I’m looking for help with **Machine Learning and Data science**
 
